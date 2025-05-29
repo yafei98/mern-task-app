@@ -1,6 +1,6 @@
 # MERN-Task-Manager
 
-![alt text](.\frontend\public\image.png)
+![alt text](./frontend/public/image.png)
 
 About This Course:
 
