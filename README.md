@@ -1,5 +1,10 @@
 # MERN-Task-Manager
 
-npm init -y
-npm install express mongoose dotenv
-npm install nodemon -D = npm install nodemon --save-dev
+![alt text](frontend\public\image.png)
+
+About This Course:
+
+⚛️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI, Zustand, RESTful API, Postman
+🔥 Build an API
+📱 Responsive UI With React.js and ChakraUI
+🌐 Deployment
