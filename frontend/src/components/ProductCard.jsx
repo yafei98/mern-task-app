@@ -1,18 +1,8 @@
 import { useToast, VStack, Input, useColorModeValue, Box, Button, Heading, HStack, IconButton, Image, Text, Toast } from '@chakra-ui/react'
 import { CiEdit } from "react-icons/ci";
 import { MdOutlineDeleteSweep } from "react-icons/md";
-// import { useColorModeValue } from './ui/color-mode';
 import { useProductStore } from '../store/product';
-// import { toaster } from "../components/ui/toaster"
-import {
-    Modal,
-    ModalOverlay,
-    ModalContent,
-    ModalHeader,
-    ModalFooter,
-    ModalBody,
-    ModalCloseButton,
-} from '@chakra-ui/react'
+
 import UpdateModal from './Modal';
 import { useState } from 'react';
 
